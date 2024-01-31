@@ -1,0 +1,13 @@
+/node_modules
+.env
+.env.backup
+.env.production
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+deploy.sh
+yarn-error.log
+/.fleet
+/.idea
+/.vscode
